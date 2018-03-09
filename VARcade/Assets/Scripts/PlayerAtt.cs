@@ -20,6 +20,8 @@ public class PlayerAtt : MonoBehaviour {
         shootableMask = LayerMask.GetMask("Shootable");
         cam = GetComponentInChildren<Camera>();
         audioSource = GetComponent<AudioSource>();
+        shootRay.origin = cam.transform.position;
+        shootRay.direction = cam.transform.forward * range;
     }
 	
 	void Update () {
