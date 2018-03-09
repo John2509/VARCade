@@ -224,7 +224,7 @@ MonoBehaviour:
   enemy: {fileID: 1147014113500232, guid: 6e9e20fa92737c444b9b4d182db09ec1, type: 2}
   tempoDeSpanw: 1
   raioDeSpanw: 25
-  raioDeSeguranca: 10
+  raioDeSeguranca: 15
 --- !u!1 &138381616 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1334862922545912, guid: c36362cd83b268f44aa083529599ccf7,
