@@ -18,6 +18,7 @@ public class EnemyLife : CaracLife
         {
             isAlive = false;
             animator.SetTrigger("Dead");
+            Destroy(gameObject, 1f);
         }
     }
 }
