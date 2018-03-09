@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 using UnityEngine;
 
 public class GameOverUI : MonoBehaviour {
@@ -17,7 +18,8 @@ public class GameOverUI : MonoBehaviour {
     {
 		if (!playerLife.IsAlive() && !GameOver)
         {
-            GetComponent<Canvas>().enabled = true;
+            GetComponentInChildren<Image>().enabled = true;
+            GetComponentInChildren<Text>().enabled = true;
             GameOver = true;
         }
 	}

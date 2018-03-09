@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyLife : CaracLife
-{
+{ 
+
     Animator animator;
 
     protected new void Awake()
@@ -18,7 +19,7 @@ public class EnemyLife : CaracLife
         {
             isAlive = false;
             animator.SetTrigger("Dead");
-            Destroy(gameObject, 1f);
+            Destroy(gameObject, 0.5f);
         }
     }
 }
