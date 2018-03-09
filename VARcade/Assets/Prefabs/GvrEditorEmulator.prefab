@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4722016662366212}
   - component: {fileID: 114283438766691302}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: GvrEditorEmulator
   m_TagString: Untagged
   m_Icon: {fileID: 0}

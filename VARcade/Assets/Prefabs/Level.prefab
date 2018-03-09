@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33882010066820750}
   - component: {fileID: 23808690985741890}
   - component: {fileID: 65320704995686950}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Chao
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,7 +40,7 @@ GameObject:
   - component: {fileID: 33611223304389396}
   - component: {fileID: 23625173107282510}
   - component: {fileID: 65567778432876640}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede1
   m_TagString: Escudo
   m_Icon: {fileID: 0}
@@ -55,7 +55,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4785317147442700}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Escudo
   m_TagString: Escudo
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ GameObject:
   - component: {fileID: 33291910231937892}
   - component: {fileID: 23687996592248644}
   - component: {fileID: 65058289189394028}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede4
   m_TagString: Escudo
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4549801525484030}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Level
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 33332681210900674}
   - component: {fileID: 23825274508212758}
   - component: {fileID: 65570170589989594}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede2
   m_TagString: Escudo
   m_Icon: {fileID: 0}
@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 33354339750439998}
   - component: {fileID: 23784967043728608}
   - component: {fileID: 65849488948216028}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede3
   m_TagString: Escudo
   m_Icon: {fileID: 0}

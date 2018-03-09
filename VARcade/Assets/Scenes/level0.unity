@@ -218,11 +218,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4722016662366212, guid: d5432c02400cc1a4e8e993433f410591, type: 2}
       propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1677157248242650, guid: d5432c02400cc1a4e8e993433f410591, type: 2}
-      propertyPath: m_Layer
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d5432c02400cc1a4e8e993433f410591, type: 2}
@@ -278,15 +274,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4066166045038512, guid: 6e9e20fa92737c444b9b4d182db09ec1, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 4066166045038512, guid: 6e9e20fa92737c444b9b4d182db09ec1, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.47
       objectReference: {fileID: 0}
     - target: {fileID: 4066166045038512, guid: 6e9e20fa92737c444b9b4d182db09ec1, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 4066166045038512, guid: 6e9e20fa92737c444b9b4d182db09ec1, type: 2}
       propertyPath: m_LocalRotation.x
@@ -455,7 +451,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4375592165492938, guid: c36362cd83b268f44aa083529599ccf7, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c36362cd83b268f44aa083529599ccf7, type: 2}
@@ -544,7 +540,7 @@ GameObject:
   - component: {fileID: 1939894111}
   - component: {fileID: 1939894110}
   - component: {fileID: 1939894109}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: EventSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
